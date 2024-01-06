@@ -1,9 +1,9 @@
 {
   "ocrSpaceApiKey" : "Put Your OCR SPACE KEY", 
-  "spamChannelID" : "Put Your Spam Channel ID", 
-  "logChannelID" : "Put Your Log Channel ID", 
-  "errorChannelID" : "Put Your Error Channel ID", 
-  "OwnerID" : "Put Your Main Account ID",
-  "TOKEN" : "Put Your TOKEN(if in replit , I'd recommend to put it in secret rather than here)"
+  "spamChannelID" : "#spam-id", 
+  "logChannelID" : "#pokemon", 
+  "errorChannelID" : "#general", 
+  "OwnerID" : "sreyaxzn",
+  "TOKEN" : "MTE5MTU4NjA0NjU4NTA5NDE1NQ.Gu4xgA.BURusAK5GTBP1ooO9kkWhLm_E0ZO2AsykANOjc"
 }
 
